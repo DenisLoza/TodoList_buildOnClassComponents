@@ -1,0 +1,27 @@
+.TodolistItem {
+
+}
+.TodolistItem {
+    font-size: 1.25rem;
+}
+
+.TodolistItem button {
+    width: 35px;
+    margin: 3px;
+}
+
+.TodolistItemLabel {
+    margin-left: 1.25rem;
+    line-height: 35px;
+    cursor: pointer;
+    user-select: none;
+}
+
+.TodolistItem.done .TodolistItemLabel {
+    text-decoration: line-through;
+}
+
+.TodolistItem.important .TodolistItemLabel {
+    font-weight: bold;
+    color: steelblue;
+}
