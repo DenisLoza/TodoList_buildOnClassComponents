@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Counter_withRedux/static/css/main.f280e1bc.css",
-    "main.js": "/Counter_withRedux/static/js/main.1c3c6c8d.js",
-    "index.html": "/Counter_withRedux/index.html",
-    "main.f280e1bc.css.map": "/Counter_withRedux/static/css/main.f280e1bc.css.map",
-    "main.1c3c6c8d.js.map": "/Counter_withRedux/static/js/main.1c3c6c8d.js.map"
+    "main.css": "/TodoList_buildOnClassComponents/static/css/main.f280e1bc.css",
+    "main.js": "/TodoList_buildOnClassComponents/static/js/main.1c3c6c8d.js",
+    "index.html": "/TodoList_buildOnClassComponents/index.html",
+    "main.f280e1bc.css.map": "/TodoList_buildOnClassComponents/static/css/main.f280e1bc.css.map",
+    "main.1c3c6c8d.js.map": "/TodoList_buildOnClassComponents/static/js/main.1c3c6c8d.js.map"
   },
   "entrypoints": [
     "static/css/main.f280e1bc.css",
