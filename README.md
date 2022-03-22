@@ -1,4 +1,7 @@
 # TodoList project (class components React)
+
+## [View The App](https://denisloza.github.io/TodoList_buildOnClassComponents/)
+
 ### It is a list of things you need to do or want to do
 ### TodoList allows you to:
 
