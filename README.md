@@ -7,7 +7,7 @@
 
  - add new tasks to the list
  - mark completed tasks
- - mark impotant tasks
+ - mark important tasks
  - delete tasks
  - switch between cases (active, completed and deleted) tasks
  - displaying the number of completed of all tasks
